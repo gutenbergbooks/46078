@@ -5,8 +5,8 @@
      as ALL CAPITALS.
 
      Depending on the hard- and software used to read this text, not
-     all characters may display properly or at all. The alignment of
-     the tables may depend on the font used.
+     all characters may display properly or at all. The alignment
+     of the tables may depend on the font used.
 
      Spelling is kept as in the original.
 
